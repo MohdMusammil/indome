@@ -3,37 +3,37 @@
             <h2 class="display-5 mb-5">Best countries to study MBBS Abroad </h2>
         </div>
         <div class="owl-carousel project-carousel wow fadeIn" data-wow-delay="0.1s">
-        <a class="project-item" href="philippines.php">
+        <a class="project-item" href="study-mbbs-in-philippines.php">
                 <img class="img-fluid" src="img/mbbs in philippines.webp" alt="indomed educare - study mbbs in philippines">
                 <div class="project-title">
                     <h5 class="ctitle mb-0">Philippines</h5>
                 </div>
             </a>
-            <a class="project-item" href="china.php">
+            <a class="project-item" href="study-mbbs-in-china.php">
                 <img class="img-fluid" src="img/Study MBBS Abroad Consultancy in India,.,..webp" alt="study MBBS abroad in China">
                 <div class="project-title">
                     <h5 class="ctitle mb-0">China</h5>
                 </div>
             </a>
-            <a class="project-item" href="russia.php">
+            <a class="project-item" href="study-mbbs-in-russia.php">
                 <img class="img-fluid" src="img/mbbs in russia.webp" alt="study MBBS abroad in russia - Indomed Educare">
                 <div class="project-title">
                     <h5 class="ctitle mb-0">Russia</h5>
                 </div>
             </a>
-            <a class="project-item" href="georgia.php">
+            <a class="project-item" href="study-mbbs-in-georgia.php">
                 <img class="img-fluid" src="img/mbbs in georgia.webp" alt="Indomed Educare - study MBBS in Georgia">
                 <div class="project-title">
                     <h5 class="ctitle mb-0">Georgia</h5>
                 </div>
             </a>
-            <a class="project-item" href="Kazakhstan.php">
+            <a class="project-item" href="study-mbbs-in-kazakhstan.php">
                 <img class="img-fluid" src="img/kazak.jpg" alt="Indomed Educare - study mbbs in ukraine">
                 <div class="project-title">
                     <h5 class="ctitle mb-0">Kazakhstan</h5>
                 </div>
             </a>
-            <a class="project-item" href="uk.php">
+            <a class="project-item" href="study-mbbs-in-uk.php">
                 <img class="img-fluid" src="img/mbbs in uk.webp" alt="indomed educare - study mbbs in uk">
                 <div class="project-title">
                     <h5 class="ctitle mb-0">UK</h5>

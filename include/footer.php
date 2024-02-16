@@ -4,7 +4,7 @@
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-white mb-4">Our Office</h5>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>No.6, Crown Court, No.128,2nd Floor,
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>No.5, Crown Court, No.128,4th Floor,
                         Cathedral Road,
                         Gopalapuram,
                         Chennai – 600086</p>
@@ -20,11 +20,13 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-white mb-4">Quick Links</h5>
-                    <a class="btn btn-link" href="about.php">About Us</a>
-                    <a class="btn btn-link" href="contact.php">Contact Us</a>
+                    <a class="btn btn-link" href="about-us.php">About Us</a>
+                    <a class="btn btn-link" href="contact-us.php">Contact Us</a>
                     <a class="btn btn-link" href="service.php">Our Services</a>
-                    <a class="btn btn-link" href="studymbbsabroad.php">Terms & Condition</a>
-                    <a class="btn btn-link" href="contact.php">Support</a>
+                    <a class="btn btn-link" href="privacypolicy.php">Privacy Policy</a>
+                    <a class="btn btn-link" href="contact-us.php">Support</a>
+                    <a class="btn btn-link" href="faq.php">FAQ</a>
+
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h5 class="text-white mb-4">Business Hours</h5>

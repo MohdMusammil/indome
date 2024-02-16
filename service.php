@@ -71,25 +71,25 @@
 
 
     <!-- Page Header Start -->
-    <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
+    <!-- <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="container py-5">
             <h1 class="display-3 text-white animated slideInRight">Services</h1>
             <nav aria-label="breadcrumb">
                 <ol class="breadcrumb animated slideInRight mb-0">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item"><a href="#">Pages</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Services</li>
                 </ol>
             </nav>
         </div>
-    </div>
+    </div> -->
     <!-- Page Header End -->
 
     <!-- Service Start -->
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                <p class="fw-medium text-uppercase text-primary mb-2">What we offer</p>
+                <!-- <p class="fw-medium text-uppercase text-primary mb-2">What we offer</p> -->
                 <h2 class="display-5 mb-4">We Provide Best Educational Services</h2>
             </div>
             <div class="row gy-5 gx-4">
@@ -109,7 +109,7 @@
                                 <p class="text-white mb-0">Our experienced counselors provide personalized guidance to help you choose the right course and university to achieve your career goals in the field of medicine.</p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="#">Read More</a>
+                        <a class="btn btn-light" href="service-in-details.php">Read More</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
@@ -128,7 +128,7 @@
                                 <p class="text-white mb-0">We provide a wide range of options for universities that offer MBBS programs abroad, and we help you choose the best one that suits your academic and financial needs.</p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Read More</a>
+                        <a class="btn btn-light" href="service-in-details.php">Read More</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
@@ -147,7 +147,7 @@
                                 <p class="text-white mb-0">We assist you in the application process, including preparing the required documents, submitting applications, and following up with the university for admission confirmation.</p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Read More</a>
+                        <a class="btn btn-light" href="service-in-details.php">Read More</a>
                     </div>
                 </div>
             </div><br>
@@ -171,7 +171,7 @@
                                 </p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="#">Read More</a>
+                        <a class="btn btn-light" href="service-in-details.php">Read More</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
@@ -190,7 +190,7 @@
                                 <p class="text-white mb-0"> We guide you in preparing all necessary documents and application forms to obtain your passport.</p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Read More</a>
+                        <a class="btn btn-light" href="service-in-details.php">Read More</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
@@ -209,7 +209,7 @@
                                 <p class="text-white mb-0">Our visa experts will guide you through the visa application process, including filling out the forms, scheduling appointments, and preparing for the interview, to ensure a successful visa application.</p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Read More</a>
+                        <a class="btn btn-light" href="service-in-details.php">Read More</a>
                     </div>
                 </div>
             </div><br>
@@ -231,7 +231,7 @@
                                 <p class="text-white mb-0">We help you plan your travel, including booking flights, arranging travel insurance, and providing travel tips and recommendations.                   </p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="#">Read More</a>
+                        <a class="btn btn-light" href="service-in-details.php">Read More</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
@@ -250,7 +250,7 @@
                                 <p class="text-white mb-0"> We assist you in finding suitable accommodation near your university campus, including providing options for hostels, apartments, and homestays that meet your budget and preferences.</p>
                             </div>
                         </div>
-                        <a class="btn btn-light" href="">Read More</a>
+                        <a class="btn btn-light" href="service-in-details.php">Read More</a>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">

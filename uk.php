@@ -67,24 +67,7 @@
     <!-- Topbar End -->
     <!-- Navbar Start --> <?php include 'include/menu.php';?>
     <!-- Navbar End -->
-    <!-- Page Header Start -->
-    <div class="container-fluid page-header py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
-      <div class="container py-5">
-        <h1 class="display-3 text-white animated slideInRight">Study MBBS in United Kingdom</h1>
-        <nav aria-label="breadcrumb">
-          <ol class="breadcrumb animated slideInRight mb-0">
-            <li class="breadcrumb-item">
-              <a href="index.html">Home</a>
-            </li>
-            <li class="breadcrumb-item">
-              <a href="#">Pages</a>
-            </li>
-            <li class="breadcrumb-item active" aria-current="page">Study MBBS in United Kingdom</li>
-          </ol>
-        </nav>
-      </div>
-    </div>
-    <!-- Page Header End -->
+
     <!-- Intro Start -->
     <div class="container-xxl py-5">
       <div class="container">
@@ -99,9 +82,9 @@
           <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
             <!-- <p class="fw-medium text-uppercase text-primary mb-2">About Us</p> -->
             <h1 class="display-5 mb-4">Study MBBS in United Kingdom</h1>
-            <p class="mb-4 para"> Pursuing MBBS in a foreign country like United Kingdom is a dream for many. This article guides you through some important questions that arise in the mind of students when they wish to study MBBS in UK. Duration of the program may take up to 5-6 years providing complete knowledge about the medicine.Because of its curriculum and its infrastructure,the country has been becoming a preferred destination for international students who wish to study MBBS in United Kingdom.</p>
+            <p class="mb-4 para"> Studying <a href="studymbbsabroad.php"> mbbs abroad </a> in a country like United Kingdom is a dream for many. This article guides you through some important questions that arise in the mind of students when they wish to study MBBS in UK. Duration of the program may take up to 5-6 years providing complete knowledge about the medicine.Because of its curriculum and its infrastructure,the country has been becoming a preferred destination for international students who wish to study MBBS in United Kingdom.</p>
             <p class="mb-4">The country attracts more number students with each year passing.To practice as a doctor in the UK a student after completing the duration of the course must register themselves at the General Medical Council (GMC) of the UK.MBBS in London offers great infrastructure, excellent teaching methodology, and exceptional exposure.To pursue one of the most challengingprofessionsan aspiring student has to do in some reputed country that offers them a great career path and bright future.</p>
-            <p class="mb-4">MBBS in London demands students with strong academic abilities. Many renowned medical specialists have pursued their MBBSat top universities inthe United Kingdom. To get into the journey of study MBBS in UK and becoming part of the country's prestigious universities, let’s get into the article and explore the path to success.</p>
+            <p class="mb-4">MBBS in London demands students with strong academic abilities. Many renowned medical specialists have pursued their<a href="studymbbsabroad.php"> MBBS at top universities </a> inthe United Kingdom. To get into the journey of study MBBS in UK and becoming part of the country's prestigious universities, let’s get into the article and explore the path to success.</p>
           </div>
         </div>
       </div>
@@ -179,7 +162,7 @@
       </table>
     </div>
     <div class="text-center mx-auto mt-5 wow fadeIn" data-wow-delay="0.1s" style="max-width: 600px;">
-      <h1 class="display-5 mb-5">Top 5 medical colleges in the United Kingdom </h1>
+      <h2 class="display-5 mb-5">Top 5 medical colleges in the United Kingdom </h2>
     </div>
     <!-- Project Start -->
     <div class="container-fluid bg-dark pt-5 my-5 px-0">
@@ -293,7 +276,7 @@
           <div class="col-lg-4">
             <div class="row gx-3 h-100">
               <div class="col-6 align-self-start " data-wow-delay="0.1s">
-                <img class="img-fluid" src="img/Uk/kc.jpeg" style="border-radius: 120px 20px 120px 20px;">
+                <img class="img-fluid" src="img/Uk/kc.jpg" style="border-radius: 120px 20px 120px 20px;">
               </div>
             </div>
           </div>
@@ -332,7 +315,7 @@
             <p class="mb-4 para"> The University of Manchester stands as a premier institution for medical education in the UK, equipping students with the necessary skills and knowledge for the evolving needs of healthcare.</p>
             <ul>
               <li>Established:		2004</li>
-              <li>Location:		Dalian, China</li>
+              <li>Location:		Manchester</li>
               <li>Course duration:	5 years</li>
               <li>Tuition fee:		30 - 35 lakhs</li>
               <li>Medium of teaching:	English</li>
@@ -353,8 +336,8 @@
         <div class="row g-5">
           <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
             <!-- <p class="fw-medium text-uppercase text-primary mb-2">About Us</p> -->
-            <h1 class="display-5 mb-4">Reason why Indians choose <br>United Kingdom to study MBBS: </h1>
-            <p class="mb-4 para"> InternationalStudents chose to study MBBS inUKbecause of its world-class infrastructure, education, and MCI Approved Medical Colleges. MBBS in London offers a highly effective option for students when it comes to pursuing an MBBS degree abroad.</p>
+            <h2 class="display-5 mb-4">Reason why Indians choose <br>United Kingdom to study MBBS: </h2>
+            <p class="mb-4 para"> International students chose to study MBBS in UK because of its world-class infrastructure, education, and MCI Approved Medical Colleges. MBBS in London offers a highly effective option for students when it comes to pursuing an MBBS degree abroad.</p>
           </div>
           <!-- <div class="col-lg-4"><div class="row gx-3 h-100"><div class="col-6 align-self-start wow fadeInUp" data-wow-delay="0.1s"><img class="img-fluid" src="img/Study MBBS Abroad - Indomed.jpg" style="border-radius: 120px 20px 120px 20px;"></div></div></div> -->
         </div>
@@ -439,7 +422,7 @@
     <!-- Country carousel Start -->
     <div class="container-fluid bg-dark pt-5 my-5 px-0">
       <div class="text-center mx-auto mt-5 wow fadeIn" data-wow-delay="0.1s" style="max-width: 600px;">
-        <h1 class="display-5 mb-5">Eligibility criteria to apply for UK</h1>
+        <h2 class="display-5 mb-5">Eligibility criteria to apply for UK</h2>
         <br>
       </div>
     </div>
@@ -551,7 +534,7 @@
         <div class="row g-5">
           <div class="col-lg-8 wow fadeInUp" data-wow-delay="0.1s">
             <!-- <p class="fw-medium text-uppercase text-primary mb-2">Contact Us</p> -->
-            <h1 class="display-5 mb-4">Advantages of studying MBBS in UK:</h1>
+            <h2 class="display-5 mb-4">Advantages of studying MBBS in UK:</h2>
             <p class="para">There are numerous advantages tostudy MBBS in a country like United Kingdom some of them are listed below:</p>
             <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
               <div class="columns">

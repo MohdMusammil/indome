@@ -21,7 +21,7 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="index.php" class="nav-item nav-link <?php active('index.php');?>">Home</a>
-                <a href="about.php" class="nav-item nav-link <?php active('about.php');?>">About Us</a>
+                <a href="about-us.php" class="nav-item nav-link <?php active('about-us.php');?>">About Us</a>
                 <a href="Philippines.php" class="nav-item nav-link <?php active('Philippines.php');?>">MBBS in Philippines</a>
                 <div class="nav-item dropdown">
                     <a href="studyabroad.php" class="nav-link dropdown-toggle <?php active('studyabroad.php');?>" data-bs-toggle="dropdown">MBBS in Abroad</a>
@@ -35,7 +35,7 @@
                     </div>
                 </div>
                 <a href="service.php" class="nav-item nav-link <?php active('service.php');?>">Services</a>
-                <a href="contact.php" class="nav-item nav-link <?php active('contact.php');?>">Contact Us</a>
+                <a href="contact-us.php" class="nav-item nav-link <?php active('contact-us.php');?>">Contact Us</a>
             </div>
             <a href="https://docs.google.com/forms/d/1UMZOS3icZVKnGBO2GwvOlIHjFyfZED7dbv58EQTvO-0/edit" class="btn btn-primary px-3 d-none d-lg-block">Register Now</a>
         </div>

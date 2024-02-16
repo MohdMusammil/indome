@@ -15,7 +15,7 @@
 
     <meta name="p:domain_verify" content="b7afa047f10cde2005be7f0594951084"/>  
 
-    <link rel="canonical" href="https://www.indomededucare.com/index.php" />
+    <link rel="canonical" href="https://indomededucare.com" />
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -75,6 +75,8 @@
 
 
     <!-- Carousel Start -->
+
+
     <div class="container-fluid px-0 mb-5">
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
@@ -85,8 +87,8 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-10 text-start">
                                     <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight"></p>
-                                    <h1 class="display-1 text-white mb-5 animated slideInRight">India's Most Trusted <br>study MBBS Abroad Consultancy </h1>
-                                    <a href="about.html" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>
+                                    <h2 class="display-11 text-white mb-5 animated slideInRight">India's Most Trusted <br>study MBBS Abroad Consultancy </h2>
+                                    <a href="about-us.php" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>
                                 </div>
                             </div>
                         </div>
@@ -99,8 +101,8 @@
                             <div class="row justify-content-center">
                                 <div class="col-lg-10 text-start">
                                     <p class="fs-5 fw-medium text-primary text-uppercase animated slideInRight"></p>
-                                    <h1 class="display-1 text-white mb-5 animated slideInRight">Study MBBS Abroad <br>made easier with IndoMed Educare</h1>
-                                    <a href="about.html" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>
+                                    <h1 class="display-11 text-white mb-5 animated slideInRight">Study MBBS Abroad <br>made easier with IndoMed Educare</h1>
+                                    <a href="about-us.php" class="btn btn-primary py-3 px-5 animated slideInRight">Explore More</a>
                                 </div>
                             </div>
                         </div>
@@ -119,6 +121,7 @@
             </button>
         </div>
     </div>
+
     <!-- Carousel End -->
 
 
@@ -126,12 +129,14 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5">
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <p class="fw-medium text-uppercase text-primary mb-2">About Us</p>
+                <div class="col-lg-8 wow fadeIn" data-wow-delay="0.5s">
+                    <!-- <p class="fw-medium text-uppercase text-primary mb-2">About Us</p> -->
                     <h2 class="display-5 mb-4">Best study MBBS Abroad consultants in India</h2>
-                    <p class="mb-4 para">At IndoMedEducare, we believe that pursuing a career in medicine should not be limited by financial constraints. That's why we offer affordable options for students to study MBBS abroad without compromising on the quality of education.</p><p class="mb-4"> With over 14 years of experience, We are proud to say that we are one of the top study MBBS abroad Consultancy in india,  we have successfully placed over 5000 students in top universities across 250+ destinations worldwide. </p><p class="mb-4">Our personalized guidance and transparent procedures ensure that students receive the best support until they clear Indian exams. Join us today and discover the benefits of studying MBBS abroad with IndoMedEducare.</p>
+                    <p class="mb-4 para">Indomed Educare is revolutionizing the aspirations of students who dream to Study MBBS Abroad. With personalized guidance from experienced experts, students can now make well-informed decisions about their careers, combining innovation and expertise to achieve their goals.</p>
+                    <p class="mb-4"> With over 14 years of experience, We are proud to say that we are one of the top study MBBS abroad Consultancy in India, we have successfully placed over 5000 students in top universities across 250+ destinations worldwide.</p>
+                    <a href="about-us.php" class="btn btn-primary">Read More</a>
                 </div>
-                <div class="col-lg-6">
+                <div class="col-lg-4">
                     <div class="row gx-3 h-100">
                         <div class="col-6 align-self-start wow fadeInUp" data-wow-delay="0.1s">
                             <img class="img-fluid" src="img/study abroad consultants.webp" alt="best study abroad consultants in India" style="border-radius: 120px 20px 120px 20px;">
@@ -148,97 +153,7 @@
     <!-- Country End -->
 
 
-    <!-- Features Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="row g-5 align-items-center">
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="position-relative me-lg-4">
-                        <img class="img-fluid w-100" src="img/education consultancy.webp" alt="Indomed Educare - Trusted Comsultancy to study MBBS abroad">
-                        <span class="position-absolute top-50 start-100 translate-middle bg-white rounded-circle d-none d-lg-block" style="width: 120px; height: 120px;"></span>
-                        <button type="button" class="btn-play" data-bs-toggle="modal"
-                            data-src="#" data-bs-target="#videoModal">
-                            <span></span>
-                        </button>
-                    </div>
-                </div>
-                <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
-                    <p class="fw-medium text-uppercase text-primary mb-2">What makes us the best </p>
-                    <h2 class="display-5 mb-4">Few Reasons Why People Choosing Us!</h2>
-                    <!-- <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p> -->
-                    <div class="row gy-4">
-                        <div class="col-12">
-                            <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
-                                    <i class="fa fa-award text-white"></i>
-                                </div>
-                                <div class="ms-4">
-                                    <h3>14 years of service</h3>
-                                    <!-- <span>Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</span> -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12">
-                            <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
-                                    <i class="fa fa-users text-white"></i>
-                                </div>
-                                <div class="ms-4">
-                                    <h3>5000+ students admitted</h3>
-                                    <!-- <span>Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</span> -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12">
-                            <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
-                                    <i class="fa fa-university text-white"></i>
-                                </div>
-                                <div class="ms-4">
-                                    <h3>250+ university  </h3>
-                                    <!-- <span>Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</span> -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12">
-                            <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
-                                    <i class="fa fa-star text-white"></i>
-                                </div>
-                                <div class="ms-4">
-                                    <h3>Transparency in Procedures</h3>
-                                    <!-- <span>Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</span> -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12">
-                            <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
-                                    <i class="fa fa-user text-white"></i>
-                                </div>
-                                <div class="ms-4">
-                                    <h3>Personalized Guidance</h3>
-                                    <!-- <span>Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</span> -->
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12">
-                            <div class="d-flex">
-                                <div class="flex-shrink-0 btn-lg-square rounded-circle bg-primary">
-                                    <i class="fa fa-headset text-white"></i>
-                                </div>
-                                <div class="ms-4">
-                                    <h3>100% support until clearing Indian exams</h3>
-                                    <!-- <span>Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</span> -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Features End -->
+
 
 
     <!-- Video Modal Start -->
@@ -261,110 +176,132 @@
     </div>
     <!-- Video Modal End -->
     <!-- Facts Start -->
-    <div class="container-fluid facts my-5 p-5">
-        <div class="row g-5">
-            <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.1s">
-                <div class="text-center border p-5">
-                    <i class="fa fa-certificate fa-3x text-white mb-3"></i>
-                    <h3 class="display-2 text-primary mb-0" data-toggle="counter-up">14</h3>
-                    <span class="fs-5 fw-semi-bold text-white">Years Experience</span>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.3s">
-                <div class="text-center border p-5">
-                    <i class="fa fa-university fa-3x text-white mb-3"></i>
-                    <h3 class="display-2 text-primary mb-0" data-toggle="counter-up">250 </h3>
-                    <span class="fs-5 fw-semi-bold text-white">Partnerd Universities</span>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.5s">
-                <div class="text-center border p-5">
-                    <i class="fa fa-users fa-3x text-white mb-3"></i>
-                    <h3 class="display-2 text-primary mb-0" data-toggle="counter-up">5000</h3>
-                    <span class="fs-5 fw-semi-bold text-white">Happy Students</span>
-                </div>
-            </div>
-            <div class="col-md-6 col-xl-3 wow fadeIn" data-wow-delay="0.7s">
-                <div class="text-center border p-5">
-                    <i class="fa fa-globe fa-3x text-white mb-3"></i>
-                    <h3 class="display-2 text-primary mb-0" data-toggle="counter-up">110</h3>
-                    <span class="fs-5 fw-semi-bold text-white">Countries</span>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Facts End -->
-
-    <!-- Service Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+    <div class="text-center mx-auto pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <p class="fw-medium text-uppercase text-primary mb-2">What we offer</p>
                 <h2 class="display-5 mb-4">We Provide Best Educational Services</h2>
             </div>
-            <div class="row gy-5 gx-4">
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="service-item">
-                        <img class="img-fluid" src="img/study abroad counselling.webp" alt="Indomed Educare - study abroad counselling">
-                        <div class="service-img">
-                            <img class="img-fluid" src="img/study abroad counselling.webp" alt="Indomede Educare - the best study abroad counselling in India">
-                        </div>
-                        <div class="service-detail">
-                            <div class="service-title">
-                                <hr class="w-25">
-                                <h3 class="mb-0">Counseling</h3>
-                                <hr class="w-25">
-                            </div>
-                            <div class="service-text">
-                                <p class="text-white mb-0">Our experienced counselors provide personalized guidance to help you choose the right course and university to achieve your career goals in the field of medicine.</p>
-                            </div>
-                        </div>
-                        <a class="btn btn-light" href="service.html">Read More</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
-                    <div class="service-item">
-                        <img class="img-fluid" src="img/Study MBBS Abroad Consultancy in India,  . ..webp" alt="select the best medical universities in the world">
-                        <div class="service-img">
-                            <img class="img-fluid" src="img/Study MBBS Abroad Consultancy in India,  . ..webp" alt="Indomed Educare - the best medical universities in the world">
-                        </div>
-                        <div class="service-detail">
-                            <div class="service-title">
-                                <hr class="w-25">
-                                <h3 class="mb-0">University Selection</h3>
-                                <hr class="w-25">
-                            </div>
-                            <div class="service-text">
-                                <p class="text-white mb-0">We provide a wide range of options for universities that offer MBBS programs abroad, and we help you choose the best one that suits your academic and financial needs.</p>
-                            </div>
-                        </div>
-                        <a class="btn btn-light" href="service.html">Read More</a>
-                    </div>
-                </div>
-                <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
-                    <div class="service-item">
-                        <img class="img-fluid" src="img/overseas education consultants.webp" alt="abroad admission consultant">
-                        <div class="service-img">
-                            <img class="img-fluid" src="img/overseas education consultants.webp" alt="Indomed Educare - the best abroad admission consultant">
-                        </div>
-                        <div class="service-detail">
-                            <div class="service-title">
-                                <hr class="w-25">
-                                <h3 class="mb-0">Admission</h3>
-                                <hr class="w-25">
-                            </div>
-                            <div class="service-text">
-                                <p class="text-white mb-0">We assist you in the application process, including preparing the required documents, submitting applications, and following up with the university for admission confirmation.</p>
-                            </div>
-                        </div>
-                        <a class="btn btn-light" href="service.html">Read More</a>
-                    </div>
-                </div>
-            </div>
+    <div class="container-fluid facts my-5 p-5">
+        <div class="row g-5">
+        <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="cards-wrapper">
+        <div class="card">
+          <div class="image-wrapper">
+            <img src="img/study abroad counselling.webp" alt="...">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Counseling</h5>
+            <p class="card-text">Our experienced counselors provide personalized guidance to help you choose the right course and university to achieve your career goals in the field of medicine.</p>
+            <a href="service-in-details.php" class="btn btn-primary">Read More</a>
+          </div>
         </div>
-    </div> 
-    <!-- Service End -->
-<!-- County Flag Carosal -->
+        <div class="card">
+          <div class="image-wrapper">
+            <img src="img/Study MBBS Abroad Consultancy in India,  . ..webp" alt="...">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">University Selection</h5>
+            <p class="card-text">We provide a wide range of options for universities that offer MBBS programs abroad, and we help you choose the best one that suits your academic and financial needs.</p>
+            <a href="service-in-details.php" class="btn btn-primary">Read More</a>
+          </div>
+        </div>
+        <div class="card">
+          <div class="image-wrapper">
+            <img src="img/overseas education consultants.webp" alt="...">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Admission</h5>
+            <p class="card-text">We assist you in the application process, including preparing the required documents, submitting applications, and following up with the university for admission confirmation.</p>
+            <a href="service-in-details.php" class="btn btn-primary">Read More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="cards-wrapper">
+        <div class="card">
+          <div class="image-wrapper">
+            <img src="img/Study MBBS Abroad Consultancy in India, , , , ,.webp" alt="...">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Documentation</h5>
+            <p class="card-text">We help you with the tedious documentation process, including verification, attestation, and translation of academic and personal documents, ensuring a hassle-free process.</p>
+            <a href="service-in-details.php" class="btn btn-primary">Read More</a>
+          </div>
+        </div>
+        <div class="card">
+          <div class="image-wrapper">
+            <img src="img/Study MBBS Abroad Consultancy in India,o.webp" alt="...">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Passport Preparation</h5>
+            <p class="card-text">We guide you in preparing all necessary documents and application forms to obtain your passport.</p>
+            <a href="service-in-details.php" class="btn btn-primary">Read More</a>
+          </div>
+        </div>
+        <div class="card">
+          <div class="image-wrapper">
+            <img src="img/Study MBBS Abroad Consultancy in India,,.,..webp" alt="...">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Visa Processing</h5>
+            <p class="card-text">SOur visa experts will guide you through the visa application process, including filling out the forms, scheduling appointments, and preparing for the interview, to ensure a successful visa application.</p>
+            <a href="service" class="btn btn-primary">Read More</a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="cards-wrapper">
+        <div class="card">
+          <div class="image-wrapper">
+            <img src="img/Study MBBS Abroad Consultancy in India,.,.,.  .webp" alt="...">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Travel Arrangements</h5>
+            <p class="card-text">We help you plan your travel, including booking flights, arranging travel insurance, and providing travel tips and recommendations.                   </p>
+            <a href="service-in-details.php" class="btn btn-primary">Read More</a>
+          </div>
+        </div>
+        <div class="card">
+          <div class="image-wrapper">
+            <img src="img/Study MBBS Abroad Consultancy in India, ,, , ,.webp" alt="...">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Accommodation</h5>
+            <p class="card-text">We assist you in finding suitable accommodation near your university campus, including providing options for hostels, apartments, and homestays that meet your budget and preferences.</p>
+            <a href="service-in-details.php" class="btn btn-primary">Read More</a>
+          </div>
+        </div>
+        <!-- <div class="card">
+          <div class="image-wrapper">
+            <img src="https://codingyaar.com/wp-content/uploads/multiple-items-carousel-slide-3-card-3.jpg" alt="...">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's
+              content.</p>
+            <a href="#" class="btn btn-primary">Go somewhere</a>
+          </div>
+        </div> -->
+      </div>
+        </div>
+        </div>
+        
+        </div>
+      </div>
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+    </div>
+    <!-- Facts End -->
 
 
 
@@ -580,7 +517,8 @@
                         </div>
                     </form>
                 </div> -->
-                <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible;animation-delay: 0.5s;animation-name: fadeInUp;background-color: #000000;border-radius: 25px;background: #73AD21;padding:20px;">
+                <div class="col-lg-4 wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible;animation-delay: 0.5s;animation-name: fadeInUp; background: #F9F9F9; padding:20px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);">
                     <form method="post" action="https://sheetdb.io/api/v1/tqpq8yrjkql0k" id="sheetdb-form" class="php-email-form">
                         <div class="row">
                           <div class="col-md-6 form-group">
@@ -606,6 +544,7 @@
                         </div> -->
                         <div ><button type="submit" class="btn btn-primary py-3 px-5" type="submit">Send Message</button></div>
                     </form>
+                    
                 </div>
             </div>
         </div>

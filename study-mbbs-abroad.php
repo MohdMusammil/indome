@@ -4,9 +4,9 @@
 <head>
     <meta charset="utf-8">
     <meta property="og:url" content="https://www.indomededucare.com/studymbbsabroad.php"> 
-    <title>Study MBBS Abroad For Indian Students | Indomed educare</title>
+    <title>Study MBBS Abroad Guide For Indian Students | Indomed educare</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta property="og:title" name="title" content="Study MBBS Abroad For Indian Students | Indomed educare">
+    <meta property="og:title" name="title" content="Study MBBS Abroad Guide For Indian Students | Indomed educare">
     <meta property="og:type" name="keywords" content="study MBBS abroad, study MBBS, MBBS abroad, study abroad, admission process to study mbbs abroad, advantages of studying MBBS abroad, medical education abroad, Study Abroad consultancy For Indian Students, study mbbs abroad for indian students,">
     <meta property="og:type" name="description" content="want to Study MBBS Abroad? Get all doubts cleared here, process, eligibility, colleges, contries etc. perfect study MBBS Abroad guide for Indian students">
     <meta property="og:image" content="https://indomededucare.com/img/IndoMed-Educare.png" />
@@ -86,10 +86,10 @@
                 </div>
                 <div class="col-lg-8 wow fadeIn" data-wow-delay="0.5s">
                     <!-- <p class="fw-medium text-uppercase text-primary mb-2">About Us</p> -->
-                    <h1 class="display-5 mb-4">Study MBBS Abroad </h1>
-                    <p class="mb-4 para"> The field of medicine has witnessed remarkable growth, making it an attractive career option for many students. Studying MBBS abroad provides a unique experience to broaden your horizons, gain a global perspective, and enhance your skills and knowledge in the medical field.Immerse yourself in a multicultural environment and <a href="an-overview-to-a-successful-overseas-medical-education.php"> overseas medical education</a>, therefore, become a part of a diverse community of students from around the world. </p>
-                    <p class="mb-4"> Studying a course in abroad would lead to arise multiple questions in the minds of students and parents like expenses, which is the best one, culture, and safety of Indians in the particular country, so we are here to clear all your unanswered questions regarding that. Although it is a little complicated process to study MBBS abroad with the right guidance and support one can achieve their goal easily.</p>
-                    <p class="mb-4">According to the latest data from Education Ministry, In 2022more than 770,000 Indian students went to study MBBS abroad.</p>
+                    <h1 class="display-5 mb-4"><a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a></h1>
+                    <p class="mb-4 para"> The field of medical education in 2024 has witnessed remarkable growth post covid, making studying MBBS in abroad an attractive career option for many students. Studying MBBS abroad provides a unique experience to broaden your horizons, gain a global perspective, and enhance your skills and knowledge in the medical field.you will eventually Immerse yourself in a multicultural environment and acquire a <a href="an-overview-to-a-successful-overseas-medical-education.php"> successful overseas medical education</a>, therefore, becomeing a part of a diverse community of students from around the world. </p>
+                    <p class="mb-4"> Studying medicine in abroad would lead to arise multiple questions in the minds of students and parents like expenses, which is the best country to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a>  for indian students, culture, and safety of Indians in the particular country, all your unanswered questions regarding abroad medical education will be addressed here. Although it is a little complicated process to study MBBS abroad with the right guidance and support one can easily achieve their goal and live the dream of an average indian MBBS aspirant.</p>
+                    <p class="mb-4">According to the latest data from Education Ministry, In 2022 more than 770,000 Indian students went to study MBBS abroad.</p>
                 </div>
             </div>
         </div>
@@ -103,10 +103,10 @@
             <div class="row g-5">
                 <div class="col-lg-8 wow fadeIn" data-wow-delay="0.5s">
                     <!-- <p class="fw-medium text-uppercase text-primary mb-2">About Us</p> -->
-                    <p class="mb-4 para"> Many students are interested to study MBBS abroad due to the excellent facilities and infrastructure provided by foreign educational institutions. The medical profession holds a prestigious status among various professional courses, which naturally attracts young individuals to pursue their MBBS studies overseas. While India boasts reputable medical colleges, the limited number of available seats poses a constraint on admissions, leading students to opt for studying MBBS abroad.</p>
-                    <p class="mb-4"> If you are the one who is willing to pursue MBBS then consider studying MBBS abroad which provides a high standard of education and also a great environment to study.</p>
-                    <p class="mb-4"> Are you someone who is interested in Studying MBBS abroad and has no clue where to start?Do you have a lot of questions that you don’thave answers for?Then you have come to the right place. In this article, we will help you navigate through the most important questions to study MBBS abroad.</p>
-                    <!-- <p class="mb-4">Our personalized guidance and transparent procedures ensure that students receive the best support until they clear Indian exams. Join us today and discover the benefits of studying MBBS abroad with IndoMedEducare.</p> -->
+                    <p class="mb-4 para"> Many students are interested to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a> due to the excellent facilities and infrastructure provided by foreign medical education institutions. The medical profession holds a prestigious status among various professional courses, which naturally attracts young individuals to pursue their MBBS studies overseas. While India boasts reputable medical colleges, the limited number of available seats poses a constraint on MBBS admissions, leading students to opt for studying MBBS abroad.</p>
+                    <p class="mb-4"> If you are one who is willing to study MBBS then you sure might have considered studying MBBS abroad as it provides a high standard of education and amazing worldly exposure making it a great environment to study.</p>
+                    <p class="mb-4"> Are you someone who is interested in Studying MBBS abroad and has no clue where to start? Do you have a lot of doubts about studying medicine abroad? that you don’t have answers for?Then you have come to the right place. In this article, we will help you navigate through the most important questions to study MBBS abroad.</p>
+                    <p class="mb-4">Our personalized guidance and transparent procedures ensure that students receive the best support until they clear Indian NEXT (National Exit test) exams. Call us today and discover the exclusive benefits of choosing to studying MBBS abroad with IndoMedEducare.</p>
                 </div>
                 <div class="col-lg-4">
                     <div class="row gx-3 h-100">
@@ -125,24 +125,24 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5">
-                <h2 class="display-5 mb-4">MBBS ABROAD VS MBBS INDIA</h2>
+                <h2 class="display-5 mb-4">MBBS ABROAD VS MBBS in INDIA</h2>
                 <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
                     <div class="columns">
                         <ul class="price">
                           <li class="header" style="background-color:#0b579a"><a rel="nofollow" href="https://indomededucare.com/studymbbsabroad.php">MBBS IN  ABROAD</a> </li>
-                          <li class="grey"><strong>NEET marks are necessary for students who are applying to medical universities abroad</strong></li>
+                          <li class="grey"><strong>Passing NEET marks are enough for students who are applying to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a></strong></li>
                           <li>Duration for the course may take up to 6 years which includes a year of the internship period.</li>
-                          <li>The entire course fees range between INR 15 to 30 lakhs</li>
+                          <li>The entire course fees ranges between INR 15 to 30 lakhs</li>
                           <li>The student-teacher ratio is 50:1 </li>
                           <li>Medical universities abroad have global recognition</li>
                           <li>Labs and other facilities are world-class infrastructure </li>
                           <!-- <li class="grey"><a href="#" class="button">Sign Up</a></li> -->
                           <li>Students will have global exposure in every aspect</li>
                           <li>Faculty will be hired from all over the world</li>
-                          <li>Abroad Universities offer more seats </li>
+                          <li>MBBS Abroad Universities offer more seats </li>
                           <li>Focus is given more on practical knowledge rather than theoretical knowledge</li>
                           <li>There is a possibility that a student can learn any other language more than their mother tongue</li>
-                          <li>Universities abroad are recognized by WHO, WFME, ECFMG, US GMC,UK</li>
+                          <li>Medical Universities abroad are recognized by WHO, WFME, ECFMG, US GMC,UK</li>
                         </ul>
                       </div>
                 </div>
@@ -152,18 +152,18 @@
                             <div class="columns">
                                 <ul class="price">
                                   <li class="header" style="background-color:#93bc42">MBBS IN INDIA</li>
-                                  <li class="grey"><strong>NEET marks are necessary for students who are applying to medical colleges in India</strong> </li>
+                                  <li class="grey"><strong>High NEET marks are necessary for students who are applying to top medical colleges in India</strong> </li>
                                   <li>Duration for the course may take up to 5 to 5.5 years which includes a year of the internship period.</li>
                                   <li>The entire course fees range between INR 10 to 80 lakhs</li>
                                   <li>The student-teacher ratio is 100:1 .</li>
                                   <li>Not every college in India has global recognition.</li>
                                   <li>Not every college in India has world-class infrastructure.</li>
                                   <!-- <li class="grey"><a href="#" class="button">Sign Up</a></li> -->
-                                  <li>Compared to the abroad Students in India will have less global exposure </li>
+                                  <li>Compared to abroad, Students in India will have less global exposure </li>
                                   <li>The Faculty will be an Indian</li>
-                                  <li>Medical college in India offers less number of seats compared to abroad universities</li>
+                                  <li>Medical colleges in India offers less number of seats compared to abroad medical universities</li>
                                   <li>Focus is given more on theoretical knowledge rather than practical knowledge</li>
-                                  <li>Here it is not possible to learn any language extra </li>
+                                  <li>Here it is not possible to learn any extra language</li>
                                   <li>In India, it is recognized by NMC and few others</li>
                                 </ul>
                               </div>                        </div>
@@ -187,10 +187,10 @@
                     </div>
                 </div>
                 <div class="col-lg-8 wow fadeIn" data-wow-delay="0.5s">
-                    <h2 class="display-5 mb-4">What are the eligibility criteria to Study MBBS Abroad?</h2>
-                    <p class="mb-4 para">To be eligible to study MBBS abroad, you should fulfill certain criteria. These may include a certain percentage in the aggregate, age, qualification, language proficiency test, and furthermore. These criteria are formulated by the National Medical Commission(NMC). It is a regulatory body for regulating medical professionals and students.</p>
+                    <h2 class="display-5 mb-4">What is the eligibility criteria to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a>?</h2>
+                    <p class="mb-4 para">To be eligible to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a>, you should fulfill certain criteria. These may include a certain percentage in the aggregate, age, qualification, language proficiency test, and furthermore. These criteria are formulated by the National Medical Commission (NMC). It is a regulatory body for regulating medical professionals and students.</p>
                     <p class="mb-4">Note that these may differ from country to country:</p>
-                    <p class="mb-4">Here are the key requirements:</p>
+                    <p class="mb-4">Here are some key points to be eligible to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a>:</p>
                 </div>
             </div>
             <div class="row g-5">
@@ -201,7 +201,7 @@
                         </div>
                         <div class="ms-4">
                             <h3>Academic Qualifications:</h3>
-                            <span>You should have completed your 10+2 or equivalent examinations with Physics, Chemistry,and Biology as the main subjects. Some of the universities may also consider Mathematics and English proficiency.</span>
+                            <span>You should have completed your 10+2 or equivalent examinations with Physics, Chemistry,and Biology as the main subjects. Some of the medical universities abroad may also consider Mathematics and English proficiency.</span>
                         </div>
                     </div>
                 </div>
@@ -212,7 +212,7 @@
                         </div>
                         <div class="ms-4">
                             <h3>Minimum Aggregate Percentage: </h3>
-                            <span>The Student must secure above 50% to 60% in examinations during 10+2 years, although specific requirements may vary.</span>
+                            <span>The Student must secure above 50% to 60% in examinations during 10+2 years, although specific requirements may vary from country to country and college to college.</span>
                         </div>
                     </div>
                 </div>
@@ -224,7 +224,7 @@
                         <div class="ms-4">
                             <h3>Age Limitations:  </h3>
                             <span>Most universities abroad impose age restrictions, typically between 17 and 25 years for general candidates, while the age limit for SC/ST/OBC category students is extended up to 30 years.</span>
-                            <span>Check the age criteria of your preferred universities.However, the student must have attained the age of 17 during the process of applying for the course.</span>
+                            <span>Check the age criteria of your preferred universities. However, the student must have attained the age of 17 during the process of applying to study MBBS Abroad.</span>
                         </div>
                     </div>
                 </div>
@@ -235,7 +235,7 @@
                         </div>
                         <div class="ms-4">
                             <h3>Language Proficiency: </h3>
-                            <span>If required, students who are keen to study MBBS abroad need to take a language proficiency to test their knowledge in English. Students can opt for TOEFL, IELTS, PTE, or OET based on the language requirement of the University.</span>
+                            <span>If required, Medical aspirants who are keen to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a> need to take a language proficiency to test their knowledge in English. Students can opt for TOEFL, IELTS, PTE, or OET based on the language requirement of the University.</span>
                         </div>
                     </div>
                 </div>
@@ -246,7 +246,7 @@
                         </div>
                         <div class="ms-4">
                             <h3>NEET score</h3>
-                            <span>The Medical Council of India has mandated that aNEET score is needed for students who are willing to Study MBBS abroad. This was passed in 2019 by MCI. The NEET score is valid for three years. The upper age limit for appearing in the NEET exam is 25 years for the general category and 30 years for SC/ST/OBC category.</span>
+                            <span>The Medical Council of India has mandated that NEET score is needed for students who are willing to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a>. This was passed in 2019 by MCI. The NEET score is valid for three years. The upper age limit for appearing in the NEET exam is 25 years for the general category and 30 years for SC/ST/OBC category.</span>
                         </div>
                     </div>
                 </div>
@@ -258,7 +258,7 @@
                         <div class="ms-4">
                             <h3>Financial Requirements: </h3>
                             <span>Consider the financial aspects, including tuition fees, living expenses, and other costs. It is essential to plan ahead and thoroughly explore scholarship and financial aid options for those looking to study MBBS abroad.</span>
-                            <span>Before applying, research the eligibility requirements of your desired universities and ensure you have a strong academic record, active involvement in extracurricular activities, well-crafted personal statements, and compelling recommendation letters. Meeting the eligibility criteria is the first step towards pursuing your MBBS abroad.</span>
+                            <span>Before applying, research the eligibility requirements of your desired universities and ensure you have a strong academic record, active involvement in extracurricular activities, well-crafted personal statements, and compelling recommendation letters. Meeting the eligibility criteria is the first step towards pursuing your dream career of studying MBBS abroad.</span>
                         </div>
                     </div>
                 </div>
@@ -269,14 +269,14 @@
                         </div>
                         <div class="ms-4">
                             <h3>Medical requirement </h3>
-                            <span>A student who wishes to study MBBS abroad is required to submit a certificate affirming their good health and also the absence of any contagious diseases.</span>
+                            <span>A student who wishes to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a> is required to submit a certificate affirming their good health and also the absence of any contagious diseases.</span>
                         </div>
                     </div>
                 </div>
             </div><br>
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
-                    <p class="mb-4 para">Before applying, research the eligibility requirements of your desired universities and ensure you have a strong academic record, active involvement in extracurricular activities, well-crafted personal statements, and compelling recommendation letters. Meeting the eligibility criteria is the first step towards pursuing your MBBS abroad. </p>
+                    <p class="mb-4 para">Before applying, research the eligibility requirements of your desired universities and ensure you have a strong academic record, active involvement in extracurricular activities, well-crafted personal statements, and compelling recommendation letters. Meeting the eligibility criteria is the first step towards pursuing your journey to study MBBS abroad. </p>
                 </div>
             </div>
         </div>
@@ -288,8 +288,8 @@
             <div class="row g-5 align-items-center">
 
                 <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.5s">
-                    <h2 class="display-5 mb-4">Admission Process to Study MBBS Abroad:</h2>
-                    <p class="mb-4">The admission process to study MBBS abroad involves several important steps. Here's a general overview:</p>
+                    <h2 class="display-5 mb-4">Admission Process to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a> :</h2>
+                    <p class="mb-4">The admission process to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a> involves several important steps. Here's a general overview:</p>
                     <div class="row gy-4">
                         <div class="col-12">
                             <div class="d-flex">
@@ -418,7 +418,7 @@
                     </div>
                     <div class="col-lg-8 wow fadeInUp" data-wow-delay="0.5s">
                         <h2 class="display-5 mb-4">Advantages of Studying MBBS Abroad over India:</h2>
-                        <p class="mb-4"> Studying MBBS abroad offers several advantages over pursuing a degree in India, here are some of the dominantpoints given:</p>
+                        <p class="mb-4"> <a href="https://indomededucare.com/study-mbbs-abroad.php">Studying MBBS Abroad</a> offers several advantages over pursuing a degree in India, here are some of the dominantpoints given:</p>
                         <div class="row gy-4">
                             <div class="col-12">
                                 <div class="d-flex">
@@ -427,7 +427,7 @@
                                     </div>
                                     <div class="ms-4">
                                         <h3>International Exposure: </h3>
-                                        <span>You gain exposure to diverse cultures, lifestyles, and medical practices while you study MBBS abroad. This broadens your perspective and prepares you to adapt to global healthcare scenarios. </span>
+                                        <span>You gain exposure to diverse cultures, lifestyles, and medical practices while you <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a>. This broadens your perspective and prepares you to adapt to global healthcare scenarios. </span>
                                     </div>
                                 </div>
                             </div>
@@ -438,7 +438,7 @@
                                     </div>
                                     <div class="ms-4">
                                         <h3>Quality Education: </h3>
-                                        <span>World-class education and research facilities become more accessible when you chose to study MBBS abroad. You can experience cutting-edge technology, advanced teaching methodologies, and practical training that prepare you to excel in your medical career.</span>
+                                        <span>World-class education and research facilities become more accessible when you chose to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a>. You can experience cutting-edge technology, advanced teaching methodologies, and practical training that prepare you to excel in your medical career.</span>
                                     </div>
                                 </div>
                             </div>
@@ -449,7 +449,7 @@
                                     </div>
                                     <div class="ms-4">
                                         <h3>Global Recognition </h3>
-                                        <span>One of the major advantages of choosing to study MBBS abroad is that degrees from reputable foreign universities are globally recognized and accepted by renowned medical organizations such as the Medical Council of India (MCI) and the World Health Organization (WHO). This widens your scope for employment opportunities worldwide.</span>
+                                        <span>One of the major advantages of choosing to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a> is that degrees from reputable foreign universities are globally recognized and accepted by renowned medical organizations such as the Medical Council of India (MCI) and the World Health Organization (WHO). This widens your scope for employment opportunities worldwide.</span>
                                     </div>
                                 </div>
                             </div>
@@ -460,7 +460,7 @@
                                     </div>
                                     <div class="ms-4">
                                         <h3>Cost-Effectiveness</h3>
-                                        <span>When you choose to study MBBS abroad you may find the cost of studying is more affordable when compared to India. Scholarships and financial aid options may also be available, making education more accessible.</span>
+                                        <span>When you choose to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a> you may find the cost of studying is more affordable when compared to India. Scholarships and financial aid options may also be available, making education more accessible.</span>
                                     </div>
                                 </div>
                             </div>
@@ -471,7 +471,7 @@
                                     </div>
                                     <div class="ms-4">
                                         <h3>More number of Seats offered</h3>
-                                        <span>The availability of a larger number of seats offered abroad is the main reason why students choose to study MBBS abroad. By comparing the number of seats offered abroad with India its obvious that the former offers more seats compared to the latter. This could be probably the main concern of the students. The unavailability of seats leads many deservingcandidates to lose their chances of getting admission.</span>
+                                        <span>The availability of a larger number of seats offered in medical colleges abroad is the main reason why students choose to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a>. By comparing the number of seats offered abroad with India its obvious that the former offers more seats compared to the latter. This could be probably the main concern of the students. The unavailability of seats leads many deservingcandidates to lose their chances of getting admission.</span>
                                     </div>
                                 </div>
                             </div>
@@ -502,25 +502,25 @@
                 </div>
                 <div class="col-lg-8 wow fadeIn" data-wow-delay="0.5s">
                     <h2 class="display-5 mb-4">Why Choose <br>Indomed Educare?</h2>
-                    <p class="mb-4 para">With 14+ years of experience, IndomedEducare has become a trusted name in assisting students in pursuing MBBS education abroad.<br><br> We take immense pride in having sent over 5000 students and more to various countries for their medical studies. Moreover, we have established our very own university in the Philippines.</p>
+                    <p class="mb-4 para">With 14+ years of experience, Indomed Educare has become a trusted name in assisting students in pursuing MBBS education abroad.<br><br> We take immense pride in having sent over 5000 students and more to various countries for their medical studies.</p>
                 </div>
             </div>
             <div class="row g-5">
                 <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s"><br>
                     <p class="fw-medium text-uppercase text-primary mb-2">Comprehensive Student Support: </p>
-                    <p class="mb-4 para"> At IndomedEducare, we prioritize the well-being and success of our students. From providing expert guidance and helping with college selection to assisting with travel arrangements, visa processing, and accommodation, we offer comprehensive support throughout the journey. Our expert counselors understand that every student's journey is unique, and they provide personalized guidance to assist you in choosing the right university and country based on your preferences and aspirations. </p>
+                    <p class="mb-4 para"> At IndomedEducare, we prioritize the well-being and success of our students. From providing expert guidance and helping with college selection to assisting with travel arrangements, visa processing, and accommodation, we offer comprehensive support throughout the journey. Our expert counselors understand that every student's journey is unique, and they provide personalized guidance to assist you in choosing the right university and country to study MBBS Abroad based on your preferences and aspirations. </p>
                     <p class="mb-4"> Even after students reach their destination, we continue to assist with exam results and any other inconveniences they may encounter. Our dedicated team ensures students receive their degrees and provides guidance for clearing Indian exams, enabling them to practice medicine in India.</p>
                 
 
-                    <p class="fw-medium text-uppercase text-primary mb-2">Preferred Choice for MBBS in the Philippines: </p>
-                    <p class="mb-4 para"> Over the years, IndomedEducare has emerged as the preferred consultancy for students aspiring to study MBBS in the Philippines. Regardless of whether they come to us directly or through other consultancies, every student in the Philippines has been sent through IndomedEducare. Our strong relationships with the Philippine government and universities enable us to facilitate admissions for students, even those with lower NEET scores.</p>
+                    <p class="fw-medium text-uppercase text-primary mb-2">Preferred Choice for <a href="https://indomededucare.com/study-mbbs-in-philippines.php">MBBS in Philippines</a> : </p>
+                    <p class="mb-4 para"> Over the years, IndomedEducare has emerged as the preferred consultancy for students aspiring to <a href="https://indomededucare.com/study-mbbs-in-philippines.php"target=_blank>study MBBS in the Philippines</a>. Regardless of whether they come to us directly or through other consultancies, every student <a href="https://indomededucare.com/study-mbbs-in-philippines.php"target=_blank>studying MBBS in the Philippines</a> has been sent through IndomedEducare. Our strong relationships with the Philippine government and universities enable us to facilitate admissions for students, even those with lower NEET scores.</p>
 
                     <p class="fw-medium text-uppercase text-primary mb-2">Celebrating Achievements: </p>
-                    <p class="mb-4 para"> IndomedEducare takes pride in its achievements. We were honored with the prestigious "International Glory Award 2021," recognizing our excellence in the field of international education. Our success stems from our commitment to providing diverse MBBS options to students with varying budgetary requirements. </p>
+                    <p class="mb-4 para"> IndomedEducare takes pride in its achievements. We were honored with the prestigious "International Glory Award 2021," recognizing our excellence in the field of international education. Our success stems from our commitment to providing diverse study MBBS abroad options to students with varying budgetary requirements. </p>
                     <p class="mb-4 para"> We understand the importance of affordability, and therefore, we offer competitive and transparent pricing structures, ensuring that our services remain accessible without compromising on quality.</p>
 
                     <p class="fw-medium text-uppercase text-primary mb-2">Your Best Study MBBS Abroad Partner: </p>
-                    <p class="mb-4 para"> Embark on your journey to study MBBS abroad with IndomedEducare, and let us be your trusted companion in achieving your medical aspirations. Our history, personalized guidance, comprehensive support, strong government affiliations, remarkable achievements, and competitive pricing make us the ideal choice for students seeking to study MBBS abroad. Join us on this transformative journey and let us help you realize your dream of becoming a successful medical professional.</p>
+                    <p class="mb-4 para"> Embark on your journey to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a> with IndomedEducare, and let us be your trusted companion in achieving your medical aspirations. Our history, personalized guidance, comprehensive support, strong government affiliations, remarkable achievements, and competitive pricing make us the ideal choice for students seeking to study MBBS abroad. Join us on this transformative journey and let us help you realize your dream of becoming a successful medical professional.</p>
 
                 </div>
             </div>

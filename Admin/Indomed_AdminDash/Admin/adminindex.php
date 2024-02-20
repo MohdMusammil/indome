@@ -86,7 +86,7 @@ $userRow=mysqli_fetch_array($res);
 									<div class="bottom-grids">
 										<div class="dev-table">    
 											<div class="col-md-3 col-sm-3 dev-col">                                    
-<a href="projects.php">
+<a href="blogs.php">
                                             <div class="dev-widget dev-widget-transparent">
                                                 <h2 class="inner one"><span><i class="fa fa-pencil"></i></span>
 													View Blogs</h2>

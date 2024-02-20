@@ -85,14 +85,14 @@ if(isset($save))
                <div class="outter-wp">
                   <div class="set-1">
                      <div class="graph-2 general">
-                        <h3 class="inner-tittle two">Create Blog</h3>
+                        <h3 class="inner-tittle two">Create College</h3>
                         <div class="grid-1">
                            <div class="form-body">
 
                            <form class="form-horizontal" method="post" enctype="multipart/form-data">
 			<table>
 
-			<label for="title">Blog Title:</label>
+			<label for="title">College Name:</label>
         <input type="text" name="title" id="title" required>
         <input type="hidden" name="slug" id="slug">
 
@@ -148,7 +148,7 @@ if(isset($save))
 					<?php 
 //display All records
 	// echo "<table border='1' style='width:40%;float:left;margin-left:2%'>";
-	echo "<Tr><th>S.No</th><th>Blog Title</th><th>URL</th>
+	echo "<Tr><th>S.No</th><th>College Name</th><th>URL</th>
 	<th>Edit / Delete</th></tR>";
 	
 	$sql=mysqli_query($conn,"select * from blog");

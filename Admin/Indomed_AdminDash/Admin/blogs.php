@@ -58,8 +58,8 @@ $userRow=mysqli_fetch_array($res);
 
                     <div class="outter-wp">
 
-<h3 class="inner-tittle two">Project List</h3>  <a href="createproject.php">                                                                                   
-<button type="submit" name="submit" class="btn btn-default">Create Project</button></a>
+<h3 class="inner-tittle two">Project List</h3>  <a href="createblog.php">                                                                                   
+<button type="submit" name="submit" class="btn btn-default">Create Blog</button></a>
 <div class="graph">
         <div class="tables" style="overflow-x:auto;">
                 <table class="table table-bordered"> <thead> 

@@ -27,10 +27,13 @@
 	 <div class="menu">
 			  <ul id="menu" >
 				  <!-- <li><a href="changepwd.php"><i class="fa fa-refresh"></i> <span>Change Password</span></a></li> -->
-				   <li id="menu-academico" ><a href="projects.php"><i class="fa fa-tasks"></i> <span>Projects</span> </a>
+				   <li id="menu-academico" ><a href="blogs.php"><i class="fa fa-blogs"></i> <span>Blogs</span> </a>
 
 				  </li>
-				  <li id="menu-academico" ><a href="event.php"> <i class="fa fa-calendar"></i> <span>Events</span> </a>
+				  <li id="menu-academico" ><a href="createcountry.php"><i class="fa fa-tasks"></i> <span>countries</span> </a>
+
+</li>
+				  <li id="menu-academico" ><a href="createcollege.php"> <i class="fa fa-calendar"></i> <span>Colleges</span> </a>
 					  
 															  </li>
                     <li id="menu-academico" ><a href="videos.php"> <i class="fa fa-play"></i> <span>Videos</span> </a>

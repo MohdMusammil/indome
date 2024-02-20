@@ -234,16 +234,7 @@
                         <div class="header"><br>
                             <h2>Study MBBS Abroad</h2>
                         </div>
-                        <div class="body widget">
-                            <ul class="list-unstyled categories-clouds m-b-0">
-                                <li><a href="study-mbbs-in-philippines.php">Philippines</a></li>
-                                <li><a href="study-mbbs-in-Georgia.php">Georgia</a></li>
-                                <li><a href="study-mbbs-in-Russia.php">Russia</a></li>
-                                <li><a href="study-mbbs-in-China.php">China</a></li>
-                                <li><a href="study-mbbs-in-uk.php">Uk</a></li>
-                                <li><a href="study-mbbs-in-kazakhstan.php">Kazakhstan</a></li>
-                            </ul>
-                        </div>
+                        <?php include 'include/blogcountrywidget.php';?>
                     </div>
                     <div class="">
                         <div class="header">

@@ -75,7 +75,7 @@
                 <div class="col-lg-8 col-md-12 left-box">
                     <div class="single_post">
                         <div class="body">
-                        <h3 class="mb-3">Breaking Out The Top 7 Myths On <a href="https://indomededucare.com/study-mbbs-abroad.php" target=_blank>Studying MBBS abroad</a></h3>
+                        <h1 class="mb-3">Breaking Out The Top 7 Myths On <a href="https://indomededucare.com/study-mbbs-abroad.php" target=_blank>Studying MBBS abroad</a></h1>
 
                             <div class="img-post">
                                 <img class="d-block img-fluid" src="img/Blogs/Indian_Students_for_Study_MBBS_Abroad2.jpg" alt="Breaking Out The Top 7 Myths On Studying Mbbs Abroad">

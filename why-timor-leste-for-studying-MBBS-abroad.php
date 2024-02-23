@@ -75,7 +75,7 @@
                 <div class="col-lg-8 col-md-12 left-box">
                     <div class="single_post">
                         <div class="body">
-                        <h3 class="mb-3">Why Timor Leste for study MBBS abroad?</h3>
+                        <h1 class="mb-3">Why Timor Leste for study MBBS abroad?</h1>
 
                             <div class="img-post">
                                 <img class="d-block img-fluid" src="img/Blogs/eligibility-and-requirements-for-study-mbbs-abroad.jpg" alt="First slide">
@@ -156,48 +156,10 @@
                                     </form>
                                 </div>
                             </div>
-                            <!-- <div class="body">
-                                <ul class="comment-reply list-unstyled">
-                                    <li class="row clearfix">
-                                        <div class="icon-box col-md-2 col-4"><img class="img-fluid img-thumbnail" src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="Awesome Image"></div>
-                                        <div class="text-box col-md-10 col-8 p-l-0 p-r0">
-                                            <h5 class="m-b-0">Gigi Hadid </h5>
-                                            <p>Why are there so many tutorials on how to decouple WordPress? how fast and easy it is to get it running (and keep it running!) and its massive ecosystem. </p>
-                                            <ul class="list-inline">
-                                                <li><a href="javascript:void(0);">Mar 09 2018</a></li>
-                                                <li><a href="javascript:void(0);">Reply</a></li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                    <li class="row clearfix">
-                                        <div class="icon-box col-md-2 col-4"><img class="img-fluid img-thumbnail" src="https://bootdey.com/img/Content/avatar/avatar3.png" alt="Awesome Image"></div>
-                                        <div class="text-box col-md-10 col-8 p-l-0 p-r0">
-                                            <h5 class="m-b-0">Christian Louboutin</h5>
-                                            <p>Great tutorial but few issues with it? If i try open post i get following errors. Please can you help me?</p>
-                                            <ul class="list-inline">
-                                                <li><a href="javascript:void(0);">Mar 12 2018</a></li>
-                                                <li><a href="javascript:void(0);">Reply</a></li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                    <li class="row clearfix">
-                                        <div class="icon-box col-md-2 col-4"><img class="img-fluid img-thumbnail" src="https://bootdey.com/img/Content/avatar/avatar4.png" alt="Awesome Image"></div>
-                                        <div class="text-box col-md-10 col-8 p-l-0 p-r0">
-                                            <h5 class="m-b-0">Kendall Jenner</h5>
-                                            <p>Very nice and informative article. In all the years I've done small and side-projects as a freelancer, I've ran into a few problems here and there.</p>
-                                            <ul class="list-inline">
-                                                <li><a href="javascript:void(0);">Mar 20 2018</a></li>
-                                                <li><a href="javascript:void(0);">Reply</a></li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                </ul>                                        
-                            </div> -->
+
                         </div>
                         <div class="">
-                            <!-- <div class="header">
-                                <h2>Leave a reply <small>Your email address will not be published. Required fields are marked*</small></h2>
-                            </div> -->
+
 
                         </div>
                 </div>

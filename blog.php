@@ -72,7 +72,7 @@
     <div class="container">
     <div class="text-center mx-auto pb-4 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <!-- <p class="fw-medium text-uppercase text-primary mb-2">What we offer</p> --><br>
-                <h2 class="display-5 mb-4">All Blogs</h2>
+                <h1 class="display-5 mb-4">All Blogs</h1>
             </div>
                 <div class="row mt-n5">
                   

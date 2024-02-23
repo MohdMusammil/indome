@@ -89,7 +89,9 @@ if(isset($save))
                         <div class="grid-1">
                            <div class="form-body">
 
-                           <form class="form-horizontal" method="post" enctype="multipart/form-data">
+                           <!-- <form class="form-horizontal" method="post" enctype="multipart/form-data"> -->
+                           <form action="process_country.php" method="post" enctype="multipart/form-data" onsubmit="setContent()">
+
 			<table>
 
 			<label for="title">Country Name:</label>
@@ -119,21 +121,8 @@ if(isset($save))
         
         <label for="image">Image:</label>
         <input type="file" name="image" id="image" accept="image/*">
-        <input type="submit" name="submit" value="Add Post">
-
-				<!-- <tr>
-					<td class="form-group col-sm-4 control-label">College Title</tD>
-					<td><input  type="text" class="form-control1" name="title" id="title" required/></td>
-				</tR>
-				<tr>
-					<td class="form-group col-sm-4 control-label">Sub page</tD>
-					<td><input type="text" class="form-control1" name="subtitle" id="subtitle"/></td>
-				</tR>
-				<tr>               
-			<td  colspan="2">
-				<input type="submit" name="save" value="Save Data"/>
-				</td>
-				</tR> -->
+        <input type="submit" name="submit" value="Add Country">
+        <input type="click" name="submit" value="Edit Country">
 			</table>
 		</form>
 		<h3 class="inner-tittle two">College List</h3>
@@ -224,5 +213,12 @@ if(isset($save))
 				}					
 			}
 		</script>
+          <script>
+        // Set the content of the hidden input field on form submission
+        function setContent() {
+            var content = document.getElementById('content').innerHTML;
+            document.getElementById('content_hidden').value = content;
+        }
+    </script>
    </body>
 </html>

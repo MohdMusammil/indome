@@ -76,7 +76,7 @@
                 <div class="col-lg-8 col-md-12 left-box">
                     <div class="single_post">
                         <div class="body">
-                        <h3 class="mb-3"><a href="study_mbbs_with_low_neet_score.php">Admission process to study MBBS abroad</a></h3>
+                        <h1 class="mb-3"><a href="study_mbbs_with_low_neet_score.php">Admission process to study MBBS abroad</a></h1>
 
                             <div class="img-post">
                                 <img class="d-block img-fluid" src="img/Blogs/admission-process-to-study mbbs.jpg" alt="Admission process to study MBBS abroad">

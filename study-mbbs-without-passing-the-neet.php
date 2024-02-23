@@ -75,7 +75,7 @@
                 <div class="col-lg-8 col-md-12 left-box">
                     <div class="single_post">
                         <div class="body">
-                        <h3 class="mb-3"><a href="study-mbbs-without-passing-the-neet.php">Is it possible to study MBBS without passing the NEET exam?</a></h3>
+                        <h1 class="mb-3"><a href="study-mbbs-without-passing-the-neet.php">Is it possible to study MBBS without passing the NEET exam?</a></h1>
 
                             <div class="img-post">
                                 <img class="d-block img-fluid" src="img/Blogs/study_MBBS_without__NEET_exam.jpg" alt="First slide">

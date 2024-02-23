@@ -75,7 +75,7 @@
                 <div class="col-lg-8 col-md-12 left-box">
                     <div class="single_post">
                         <div class="body">
-                        <h3 class="mb-3"><a href="study-mbbs-with-low-neet-score.php">An Overview to a Successful Overseas Medical Education</a></h3>
+                        <h1 class="mb-3"><a href="study-mbbs-with-low-neet-score.php">An Overview to a Successful Overseas Medical Education</a></h1>
 
                             <div class="img-post">
                                 <img class="d-block img-fluid" src="img/Blogs/an-overview-to-a-successful-overseas-medical-education.jpg" alt="First slide">

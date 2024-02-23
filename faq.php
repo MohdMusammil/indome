@@ -83,7 +83,7 @@
                             <div class="card-body p-4 p-md-5 p-xl-6">
                                 <div class="text-center mb-2-3 mb-lg-6">
                                     <span class="section-title text-primary1">FAQ's</span>
-                                    <h2 class="h1 mb-0 text-secondary">Frequently Asked Questions</h2>
+                                    <h1 class="h1 mb-0 text-secondary">Frequently Asked Questions</h1>
                                 </div>
                                 <div id="accordion" class="accordion-style">
                                     <div class="card1 mb-3">

@@ -76,7 +76,7 @@
                 <div class="col-lg-8 col-md-12 left-box">
                     <div class="single_post">
                         <div class="body">
-                        <h3 class="mb-3">Top 5 Affordable Countries To Study MBBS Abroad</h3>
+                        <h1 class="mb-3">Top 5 Affordable Countries To Study MBBS Abroad</h1>
 
                             <div class="img-post">
                                 <img class="d-block img-fluid" src="img/Blogs/Indian_Students_for_Study_MBBS_Abroad2.jpg" alt="Top 5 Affordable Countries To Study MBBS Abroad">

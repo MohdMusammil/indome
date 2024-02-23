@@ -75,7 +75,7 @@
                 <div class="col-lg-8 col-md-12 left-box">
                     <div class="single_post">
                         <div class="body">
-                        <h3 class="mb-3">What are the Eligibility and Requirements in the Study MBBS Abroad?</h3>
+                        <h1 class="mb-3">What are the Eligibility and Requirements in the Study MBBS Abroad?</h1>
 
                             <div class="img-post">
                                 <img class="d-block img-fluid" src="img/Blogs/eligibility-and-requirements-for-study-mbbs-abroad.jpg" alt="First slide">
@@ -156,43 +156,7 @@
                                     </form>
                                 </div>
                             </div>
-                            <!-- <div class="body">
-                                <ul class="comment-reply list-unstyled">
-                                    <li class="row clearfix">
-                                        <div class="icon-box col-md-2 col-4"><img class="img-fluid img-thumbnail" src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="Awesome Image"></div>
-                                        <div class="text-box col-md-10 col-8 p-l-0 p-r0">
-                                            <h5 class="m-b-0">Gigi Hadid </h5>
-                                            <p>Why are there so many tutorials on how to decouple WordPress? how fast and easy it is to get it running (and keep it running!) and its massive ecosystem. </p>
-                                            <ul class="list-inline">
-                                                <li><a href="javascript:void(0);">Mar 09 2018</a></li>
-                                                <li><a href="javascript:void(0);">Reply</a></li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                    <li class="row clearfix">
-                                        <div class="icon-box col-md-2 col-4"><img class="img-fluid img-thumbnail" src="https://bootdey.com/img/Content/avatar/avatar3.png" alt="Awesome Image"></div>
-                                        <div class="text-box col-md-10 col-8 p-l-0 p-r0">
-                                            <h5 class="m-b-0">Christian Louboutin</h5>
-                                            <p>Great tutorial but few issues with it? If i try open post i get following errors. Please can you help me?</p>
-                                            <ul class="list-inline">
-                                                <li><a href="javascript:void(0);">Mar 12 2018</a></li>
-                                                <li><a href="javascript:void(0);">Reply</a></li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                    <li class="row clearfix">
-                                        <div class="icon-box col-md-2 col-4"><img class="img-fluid img-thumbnail" src="https://bootdey.com/img/Content/avatar/avatar4.png" alt="Awesome Image"></div>
-                                        <div class="text-box col-md-10 col-8 p-l-0 p-r0">
-                                            <h5 class="m-b-0">Kendall Jenner</h5>
-                                            <p>Very nice and informative article. In all the years I've done small and side-projects as a freelancer, I've ran into a few problems here and there.</p>
-                                            <ul class="list-inline">
-                                                <li><a href="javascript:void(0);">Mar 20 2018</a></li>
-                                                <li><a href="javascript:void(0);">Reply</a></li>
-                                            </ul>
-                                        </div>
-                                    </li>
-                                </ul>                                        
-                            </div> -->
+
                         </div>
                         <div class="">
                             <!-- <div class="header">
@@ -238,13 +202,7 @@
                                             <img src="img/Blogs/overseas-medical-education.jpg" alt="Awesome Image">                                        
                                         </div>                                            
                                     </div>
-                                    <!-- <div class="single_post">
-                                        <p class="m-b-0">new rules, more cars, more races</p>
-                                        <span>jun 8, 2018</span>
-                                        <div class="img-post">
-                                            <img src="https://www.bootdey.com/image/280x280/87CEFA/000000" alt="Awesome Image">                                            
-                                        </div>
-                                    </div> -->
+
                                 </div>
                             </div>
                         </div>
@@ -266,19 +224,7 @@
                         <div id="fb-root"></div>
 <script async="1" defer="1" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v17.0" nonce="72t2UZux"></script><div class="fb-page" data-href="https://www.facebook.com/IndoMedEducareOfficial" data-height="500" data-small-header="" data-adapt-container-width="1" data-hide-cover="" data-show-facepile="" data-show-posts="true" data-width="600"><blockquote cite="https://www.facebook.com/IndoMedEducareOfficial" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/IndoMedEducareOfficial">IndoMed Educare</a></blockquote></div>                        </div>
                     </div>
-                    <!-- <div class="card">
-                        <div class="header">
-                            <h2>Email Newsletter <small>Get our products/news earlier than others, let’s get in touch.</small></h2>
-                        </div>
-                        <div class="body widget newsletter">                        
-                            <div class="input-group">
-                                <input type="text" class="form-control" placeholder="Enter Email">
-                                <div class="input-group-append">
-                                    <span class="input-group-text"><i class="icon-paper-plane"></i></span>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
+
                 </div>
             </div>
 

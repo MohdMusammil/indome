@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <meta property="og:url" content="https://www.indomededucare.com/studymbbsabroad.php"> 
+    <meta property="og:url" content="https://www.indomededucare.com/study-mbbs-abroad.php"> 
     <title>Study MBBS Abroad Guide For Indian Students | Indomed educare</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta property="og:title" name="title" content="Study MBBS Abroad Guide For Indian Students | Indomed educare">
@@ -51,6 +51,11 @@
 
   gtag('config', 'G-G561WRYQG8');
 </script>
+<style>
+    .recip{
+        color: #ffffff;
+    }
+</style>
 </head>
 
 <body>
@@ -164,7 +169,7 @@
                                   <li>Medical colleges in India offers less number of seats compared to abroad medical universities</li>
                                   <li>Focus is given more on theoretical knowledge rather than practical knowledge</li>
                                   <li>Here it is not possible to learn any extra language</li>
-                                  <li>In India, it is recognized by NMC and few others</li>
+                                  <li>In India, it is recognized by NMC and few others<br> <a class="recip" href="http://www.unique-listing.com/">Unique Listing.com</a></li>
                                 </ul>
                               </div>                        </div>
                     </div>

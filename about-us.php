@@ -82,7 +82,7 @@
             <div class="row g-5">
                 <div class="col-lg-8 wow fadeIn" data-wow-delay="0.5s">
                     <p class="fw-medium text-uppercase text-primary mb-2">About</p>
-                    <h2 class="display-5 mb-4">IndoMed Educare</h2>
+                    <h1 class="display-5 mb-4">IndoMed Educare</h1>
                     <p class="mb-4 para">Aiming for excellence, Indomed Educare has made its position as a highly trusted academic guidance provider for studying MBBS abroad. Since its establishment in 2015, Indomed Educare has actively guided students toward pursuing their MBBS aspirations overseas, ensuring a seamless experience without any discrepancies. </p>
                     <p class="mb-4"> We take immense pride in nurturing the development of an efficient and enthusiastic doctor community dedicated to serving people and the community. By providing expert guidance, we have simplified the journey of pursuing medicine, which is widely acknowledged as one of the most challenging professions.</p>
                     <p class="mb-4"> INDOMED offer personalized consulting services to aspiring students who want to pursue MBBS abroad. We provide detailed information, essential for students interested in studying MBBS overseas. From the admission process to graduation, we will support you throughout your journey. With our expertise and experience in the field, our experts will guide you in turning your dreams into reality.</p>

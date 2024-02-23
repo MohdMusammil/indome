@@ -174,6 +174,7 @@
         </tbody>
       </table>
     </div>
+
     <div class="text-center mx-auto mt-5 wow fadeIn" data-wow-delay="0.1s" style="max-width: 600px;">
       <h2 class="display-5 mb-5">Top 5 medical colleges in the Philippines </h2>
     </div>
@@ -360,6 +361,113 @@
     </div>
     </div>
     <!-- Project End -->
+
+    <!-- College List  -->
+    <div class="container">
+    <div class="table-responsive">
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+          <th colspan="0"  style="background:#0b579a; color:#ffffff; border-top-left-radius: 5px; border-left:0px;">S.No</th>
+            <th colspan="0" class="product" style="background:#0b579a; color:#ffffff; border-left:0px;">Name of the University</th>
+
+            <th colspan="0" class="product" style="background:#0b579a; color:#ffffff; border-top-right-radius: 5px; border-left:0px;">Medium and Duration</th>
+          </tr>
+        </thead>
+        <tbody>
+
+          <tr class="">
+            <td>1</td>
+            <td colspan="0">AMA School of Medicine </td>
+            <td colspan="0">English / 5-6 years (which includes internship period) </td>
+
+          </tr>
+          <tr class="">
+            <td>2</td>
+            <td colspan="0">Emilio Aguinaldo College </td>
+            <td colspan="0">English / 5-6 years (which includes internship period) </td>
+
+          </tr>
+          <tr class="compare-row">
+            <td>3</td>
+            <td colspan="0">Lyceum Northwestern University</td>
+            <td colspan="0">English / 5-6 years (which includes internship period) </td>
+
+          </tr>
+          <tr class="compare-row">
+            <td>4</td>
+            <td colspan="0">Angeles University Foundation</td>
+            <td colspan="0">English / 5-6 years (which includes internship period) </td>
+
+          </tr>
+          <tr class="compare-row">
+            <td>5</td>
+            <td colspan="0">Manila Central University </td>
+            <td colspan="0">English / 5-6 years (which includes internship period) </td>
+
+          </tr>
+          <tr class="compare-row">
+            <td>6</td>
+            <td colspan="0">Southwestern University PHINMA </td>
+            <td colspan="0">English / 5-6 years (which includes internship period) </td>
+
+          </tr>
+          <tr class="compare-row">
+            <td>7</td>
+            <td colspan="0">St. Paul University Philippines </td>
+            <td colspan="0">English / 5-6 years (which includes internship period) </td>
+
+          </tr>
+          <tr class="compare-row">
+            <td>8</td>
+            <td colspan="0">Liceo College of Medicine</td>
+            <td colspan="0">English / 5-6 years (which includes internship period) </td>
+
+          </tr>
+          <tr class="compare-row">
+            <td>9</td>
+            <td colspan="0">Our Lady Of Fatima University</td>
+            <td colspan="0">English / 5-6 years (which includes internship period) </td>
+
+          </tr>
+          <tr class="compare-row">
+            <td>10</td>
+            <td colspan="0">University of Perpetual Help</td>
+            <td colspan="0">English / 5-6 years (which includes internship period) </td>
+
+          </tr>
+          <tr class="compare-row">
+            <td>11</td>
+            <td colspan="0">Cebu Institute of Medicine</td>
+            <td colspan="0">English / 5-6 years (which includes internship period) </td>
+
+          </tr>
+          <tr class="compare-row">
+            <td>12</td>
+            <td colspan="0">University of Santo Tomas</td>
+            <td colspan="0">English / 5-6 years (which includes internship period) </td>
+
+          </tr>
+          <tr class="compare-row">
+            <td>13</td>
+            <td colspan="0">University of Northern Philippines</td>
+            <td colspan="0">English / 5-6 years (which includes internship period) </td>
+
+          </tr>
+          <tr class="compare-row">
+            <td>14</td>
+            <td colspan="0">Central Philippine University</td>
+            <td colspan="0">English / 5-6 years (which includes internship period) </td>
+
+          </tr>
+
+
+
+        </tbody>
+      </table>
+      </div>
+      </div>
+
     <!-- Abroad MBBS 2023 Start -->
     <div class="container-xxl py-5">
       <div class="container">

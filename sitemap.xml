@@ -1,138 +1,141 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
 <url>
-<loc>https://indomededucare.com/</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>1.00</priority>
+  <loc>https://www.indomededucare.com/</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/about-us.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://www.indomededucare.com/about-us.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/studymbbsabroad.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://www.indomededucare.com/studymbbsabroad.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/study-mbbs-in-philippines.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://www.indomededucare.com/study-mbbs-in-philippines.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/study-mbbs-in-georgia.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://www.indomededucare.com/study-mbbs-in-georgia.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/study-mbbs-in-kazakhstan.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://www.indomededucare.com/study-mbbs-in-kazakhstan.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/study-mbbs-in-russia.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://www.indomededucare.com/study-mbbs-in-russia.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/study-mbbs-in-china.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://www.indomededucare.com/study-mbbs-in-china.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/study-mbbs-in-uk.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://www.indomededucare.com/study-mbbs-in-uk.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/blog.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://www.indomededucare.com/blog.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/service.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://www.indomededucare.com/service.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/service-in-details.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://www.indomededucare.com/service-in-details.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/privacypolicy.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://www.indomededucare.com/privacypolicy.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/faq.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.80</priority>
+  <loc>https://www.indomededucare.com/faq.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/the-manila-times-college.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://www.indomededucare.com/the-manila-times-college.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/brokenshire-college.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://www.indomededucare.com/brokenshire-college.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/davao-medical-school-of-medicine.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://www.indomededucare.com/davao-medical-school-of-medicine.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/bicol-christian-college.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://www.indomededucare.com/bicol-christian-college.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/uv-gullas-college-of-medicine.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://www.indomededucare.com/uv-gullas-college-of-medicine.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/an-overview-to-a-successful-overseas-medical-education.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://www.indomededucare.com/an-overview-to-a-successful-overseas-medical-education.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/what-are-the-eligibility-and-requirements-in-the-study-mbbs-abroad.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://www.indomededucare.com/what-are-the-eligibility-and-requirements-in-the-study-mbbs-abroad.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/guideline-to-indianstudents-for-study-mbbs-abroad.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://www.indomededucare.com/guideline-to-indianstudents-for-study-mbbs-abroad.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/study-mbbs-without-passing-the-neet.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://www.indomededucare.com/study-mbbs-without-passing-the-neet.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/study-mbbs-with-low-neet-score.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://www.indomededucare.com/study-mbbs-with-low-neet-score.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/admission-process-to-study-mbbs-abroad.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.64</priority>
+  <loc>https://www.indomededucare.com/admission-process-to-study-mbbs-abroad.php</loc>
+  <lastmod>2024-03-01T09:28:24+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
-<loc>https://indomededucare.com/pdf/Manila%20Times%20College%204-Page%20Brochure.pdf</loc>
-<lastmod>2023-09-06T12:01:10+00:00</lastmod>
-<priority>0.51</priority>
+  <loc>https://www.indomededucare.com/pdf/Manila%20Times%20College%204-Page%20Brochure.pdf</loc>
+  <lastmod>2023-09-06T12:01:10+00:00</lastmod>
+  <priority>0.51</priority>
 </url>
-<url>
-<loc>https://indomededucare.com/study-mbbs-abroad.php</loc>
-<lastmod>2024-02-16T09:55:20+00:00</lastmod>
-<priority>0.51</priority>
-</url>
+
+
 </urlset>

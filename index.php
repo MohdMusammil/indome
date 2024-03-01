@@ -15,7 +15,7 @@
 
     <meta name="p:domain_verify" content="b7afa047f10cde2005be7f0594951084"/>  
 
-    <link rel="canonical" href="https://indomededucare.com" />
+    <link rel="canonical" href="https://www.indomededucare.com" />
     <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -247,7 +247,7 @@
           <div class="card-body">
             <h5 class="card-title">Visa Processing</h5>
             <p class="card-text">SOur visa experts will guide you through the visa application process, including filling out the forms, scheduling appointments, and preparing for the interview, to ensure a successful visa application.</p>
-            <a href="service" class="btn btn-primary">Read More</a>
+            <a href="service-in-details.php" class="btn btn-primary">Read More</a>
           </div>
         </div>
       </div>

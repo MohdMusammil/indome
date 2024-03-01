@@ -83,6 +83,10 @@ if(isset($save))
 					<td class="form-group col-sm-4 control-label">Collge / University Name</tD>
 					<td><input type="text" class="form-control1" name="vurl"/></td>
 				</tr>
+				<tr>
+					<td class="form-group col-sm-4 control-label">Medium</tD>
+					<td><input type="text" class="form-control1" name="vurl"/></td>
+				</tr>
 				<tr>               
 			<td align="center" colspan="2">
 				<input type="submit" name="save" value="Save Data"/>

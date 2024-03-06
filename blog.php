@@ -74,7 +74,20 @@
         <!-- Loop through your blog posts here -->
         <?php
         // Dummy array of blog posts (you'll replace this with your actual data)
+
         $blogPosts = [
+            ["title" => "Things required for going study MBBS abroad", "image" => "img/Blogs/Things required for going study MBBS abroad.jpg", "url" => "things-you-must-have-for-studying-mbbs-abroad.php", "date" => "17 Jan", "comments" => 7],            
+            ["title" => "Post-Graduation Options After Studying MBBS Abroad", "image" => "img/Blogs/Post-Graduation Options After Studying MBBS Abroad.jpg", "url" => "what-should-you-do-after-studying-MBBS-abroad.php", "date" => "17 Jan", "comments" => 7],             
+            ["title" => "Preferred Destination for Study MBBS abroad", "image" => "img/Blogs/Preferred Destination for Study MBBS abroad.jpg", "url" => "preferred-destination-to-study-abroad-for-indian-students.php", "date" => "17 Jan", "comments" => 7],             
+            ["title" => "Process and qualification to study MBBS abroad", "image" => "img/Blogs/Process and qualification to study MBBS abroad.jpg", "url" => "process-and-qualification-to-study-mbbs-abroad.php", "date" => "17 Jan", "comments" => 7],             
+            ["title" => "Five Reasons why students choose to study MBBS Abroad", "image" => "img/Blogs/five-reasons-why-students-choose-to-study-mbbs-abroad.jpg", "url" => "five-reasons-why-students-choose-to-study-mbbs-abroad.php", "date" => "17 Jan", "comments" => 7], 
+            ["title" => "Scope of study MBBS abroad", "image" => "img/Blogs/scope of study mbbs abroad.jpg", "url" => "scope-of-study-mbbs-in-abroad.php", "date" => "17 Jan", "comments" => 7], 
+            ["title" => "How to Choose the Right Country for MBBS Studies", "image" => "img/Blogs/which country should you choose to study MBBS abroad.jpg", "url" => "which-country-should-you-choose-to-study-mbbs-abroad.php", "date" => "17 Jan", "comments" => 7], 
+            ["title" => "Study MBBS in Kyrgyzstan complete Guide", "image" => "img/Blogs/study mbbs in kyrgyzstan complete guide.jpg", "url" => "study-mbbs-in-kyrgyzstan-complete-guide.php", "date" => "17 Jan", "comments" => 7], 
+            ["title" => "Is studying MBBS abroad worth it?", "image" => "img/Blogs/Is studying MBBS abroad worth it.jpg", "url" => "is-studying-mbbs-abroad-worth-it.php", "date" => "17 Jan", "comments" => 7], 
+            ["title" => "Benefits of Studying Medicine in Foreign Universities", "image" => "img/Blogs/benefits of studying medicine abroad.jpg", "url" => "benefits-of-studying-medicine-abroad.php", "date" => "17 Jan", "comments" => 7], 
+            ["title" => "What are the advantages and challenges of studying MBBS abroad?", "image" => "img/Blogs/advantages-and-disadvantages-of-studying-medical-in-abroad.jpg", "url" => "advantages-and-disadvantages-of-studying-medical-in-abroad.php", "date" => "17 Jan", "comments" => 7], 
+            ["title" => "Why choose to study mbbs in russia?", "image" => "img/Blogs/why choose to study mbbs in russia.jpg", "url" => "why-choose-to-study-mbbs-in-russia.php", "date" => "17 Jan", "comments" => 7], 
             ["title" => "Things to know before choosing to study mbbs china", "image" => "img/Blogs/Things to know before choosing to study mbbs china.jpg", "url" => "things-to-know-before-choosing-to-study-mbbs-china.php", "date" => "17 Jan", "comments" => 7],
             ["title" => "Is NEET Necessary and How to study MBBS Abroad without NEET In 2024?", "image" => "img/Blogs/Is NEET Necessary and How to study MBBS Abroad without NEET In 2024.jpg", "url" => "is-neet-necessary-and-how-to-study-mbbs-abroad-without-neet-in-2024.php", "date" => "17 Jan", "comments" => 7],
             ["title" => "5 REASONS WHY STUDENTS CHOOSE TO STUDY MBBS ABROAD", "image" => "img/Blogs/5 REASONS WHY STUDENTS CHOOSE TO STUDY MBBS ABROAD.jpg", "url" => "5-reasons-why-students-choose-to-study-mbbs-abroad.php", "date" => "17 Jan", "comments" => 7],
@@ -86,9 +99,9 @@
             ["title" => "Is it possible to study MBBS without passing the NEET exam?", "image" => "img/Blogs/study_MBBS_without__NEET_exam.jpg", "url" => "study-mbbs-without-passing-the-neet.php", "date" => "07 Jan", "comments" => 11],
             ["title" => "Is it possible to study MBBS with a low NEET score?", "image" => "img/Blogs/studyMBBSwith_low_NEET_score.jpg", "url" => "study-mbbs-with-low-neet-score.php", "date" => "17 Jan", "comments" => 7],
             ["title" => "Admission process to study MBBS abroad", "image" => "img/Blogs/admission-process-to-study mbbs.jpg", "url" => "admission-process-to-study-mbbs-abroad.php", "date" => "26 Jan", "comments" => 13],
-            ["title" => "Why Timor Leste for study MBBS abroad?", "image" => "img/Blogs/successful-overseas-medical-education.jpg", "url" => "why-timor-leste-for-studying-MBBS-abroad.php", "date" => "07 Jan", "comments" => 11],
-            ["title" => "What are the Eligibility and Requirements in the Study MBBS Abroad?", "image" => "img/Blogs/eligibility-and-requirements.jpg", "url" => "what-are-the-eligibility-and-requirements-in-the-study-mbbs-abroad.php", "date" => "17 Jan", "comments" => 7],
-            ["title" => "Guidelines to Indian Students for Study MBBS Abroad", "image" => "img/Blogs/Guidelines_to_Indian_Students_for_Study_MBBS_Abroad1.jpg", "url" => "guideline-to-indianstudents-for-study-mbbs-abroad.php", "date" => "26 Jan", "comments" => 13],
+            ["title" => "Why Timor Leste for study MBBS abroad?", "image" => "img/Blogs/an-overview-to-a-successful-overseas-medical-education.jpg", "url" => "why-timor-leste-for-studying-MBBS-abroad.php", "date" => "07 Jan", "comments" => 11],
+            ["title" => "What are the Eligibility and Requirements in the Study MBBS Abroad?", "image" => "img/Blogs/eligibility-and-requirements-for-study-mbbs-abroad.jpg", "url" => "what-are-the-eligibility-and-requirements-in-the-study-mbbs-abroad.php", "date" => "17 Jan", "comments" => 7],
+            ["title" => "Guidelines to Indian Students for Study MBBS Abroad", "image" => "img/Blogs/Indian_Students_for_Study_MBBS_Abroad2.jpg", "url" => "guideline-to-indianstudents-for-study-mbbs-abroad.php", "date" => "26 Jan", "comments" => 13],
             // Add more blog posts here...
         ];
         // Pagination

@@ -4,8 +4,10 @@
 <head>
     <meta charset="utf-8">
     <meta property="og:url" content="https://www.indomededucare.com/study-mbbs-abroad.php"> 
-    <title>Study MBBS Abroad Guide For Indian Students | Indomed educare</title>
+    <title>Study MBBS Abroad For Indian Students - Indomed Educare</title>
+    <meta name="keywords" content="study MBBS abroad, study MBBS, MBBS abroad, study abroad, admission process to study mbbs abroad, advantages of studying MBBS abroad, medical education abroad, Study Abroad consultancy For Indian Students, study mbbs abroad for indian students">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="description" content="INDOMED EDUCARE is one of the most trusted study MBBS abroad educational consultant with over 10+ years of expertise in Medical Universities Abroad we facilitate Indian students to study MBBS abroad with Low Cost and high quality education." />
     <meta property="og:title" name="title" content="Study MBBS Abroad Guide For Indian Students | Indomed educare">
     <meta property="og:type" name="keywords" content="study MBBS abroad, study MBBS, MBBS abroad, study abroad, admission process to study mbbs abroad, advantages of studying MBBS abroad, medical education abroad, Study Abroad consultancy For Indian Students, study mbbs abroad for indian students,">
     <meta property="og:type" name="description" content="want to Study MBBS Abroad? Get all doubts cleared here, process, eligibility, colleges, contries etc. perfect study MBBS Abroad guide for Indian students">
@@ -51,11 +53,6 @@
 
   gtag('config', 'G-G561WRYQG8');
 </script>
-<style>
-    .recip{
-        color: #ffffff;
-    }
-</style>
 </head>
 
 <body>
@@ -110,7 +107,7 @@
                     <!-- <p class="fw-medium text-uppercase text-primary mb-2">About Us</p> -->
                     <p class="mb-4 para"> Many students are interested to <a href="https://indomededucare.com/study-mbbs-abroad.php">Study MBBS Abroad</a> due to the excellent facilities and infrastructure provided by foreign medical education institutions. The medical profession holds a prestigious status among various professional courses, which naturally attracts young individuals to pursue their MBBS studies overseas. While India boasts reputable medical colleges, the limited number of available seats poses a constraint on MBBS admissions, leading students to opt for studying MBBS abroad.</p>
                     <p class="mb-4"> If you are one who is willing to study MBBS then you sure might have considered studying MBBS abroad as it provides a high standard of education and amazing worldly exposure making it a great environment to study.</p>
-                    <p class="mb-4"> Are you someone who is interested in Studying MBBS abroad and has no clue where to start? Do you have a lot of doubts about studying medicine abroad? that you don’t have answers for?Then you have come to the right place. In this article, we will help you navigate through the most important questions to study MBBS abroad.</p>
+                    <p class="mb-4"> Are you someone who is interested in Studying MBBS abroad and has no clue where to start? Do you have a lot of doubts about studying medicine abroad? that you don’t have answers for?Then you have come to the right place. In this article, we will discuss the advantages of studying mbbs abroad help you navigate through the most important questions to study MBBS abroad.</p>
                     <p class="mb-4">Our personalized guidance and transparent procedures ensure that students receive the best support until they clear Indian NEXT (National Exit test) exams. Call us today and discover the exclusive benefits of choosing to studying MBBS abroad with IndoMedEducare.</p>
                 </div>
                 <div class="col-lg-4">
@@ -169,7 +166,7 @@
                                   <li>Medical colleges in India offers less number of seats compared to abroad medical universities</li>
                                   <li>Focus is given more on theoretical knowledge rather than practical knowledge</li>
                                   <li>Here it is not possible to learn any extra language</li>
-                                  <li>In India, it is recognized by NMC and few others<br> <a class="recip" href="http://www.unique-listing.com/">Unique Listing.com</a></li>
+                                  <li>In India, it is recognized by NMC and few others</li>
                                 </ul>
                               </div>                        </div>
                     </div>
@@ -507,7 +504,7 @@
                 </div>
                 <div class="col-lg-8 wow fadeIn" data-wow-delay="0.5s">
                     <h2 class="display-5 mb-4">Why Choose <br>Indomed Educare?</h2>
-                    <p class="mb-4 para">With 14+ years of experience, Indomed Educare has become a trusted name in assisting students in pursuing MBBS education abroad.<br><br> We take immense pride in having sent over 5000 students and more to various countries for their medical studies.</p>
+                    <p class="mb-4 para">With 14+ years of suggesting the best country for mbbs abroad for indian students, Indomed Educare has become a trusted name in assisting students in pursuing MBBS education abroad.<br><br> We take immense pride in having over 5000 indian students studying mbbs abroad for their medical studies through indomed educare.</p>
                 </div>
             </div>
             <div class="row g-5">
@@ -518,7 +515,7 @@
                 
 
                     <p class="fw-medium text-uppercase text-primary mb-2">Preferred Choice for <a href="https://indomededucare.com/study-mbbs-in-philippines.php">MBBS in Philippines</a> : </p>
-                    <p class="mb-4 para"> Over the years, IndomedEducare has emerged as the preferred consultancy for students aspiring to <a href="https://indomededucare.com/study-mbbs-in-philippines.php"target=_blank>study MBBS in the Philippines</a>. Regardless of whether they come to us directly or through other consultancies, every student <a href="https://indomededucare.com/study-mbbs-in-philippines.php"target=_blank>studying MBBS in the Philippines</a> has been sent through IndomedEducare. Our strong relationships with the Philippine government and universities enable us to facilitate admissions for students, even those with lower NEET scores.</p>
+                    <p class="mb-4 para"> Over the years, IndomedEducare has emerged as the best mbbs abroad consultants in india and the most preferred consultancy for students aspiring to <a href="https://indomededucare.com/study-mbbs-in-philippines.php"target=_blank>study MBBS in the Philippines</a>. Regardless of whether they come to us directly or through other consultancies, every student <a href="https://indomededucare.com/study-mbbs-in-philippines.php"target=_blank>studying MBBS in the Philippines</a> has been sent through IndomedEducare. Our strong relationships with the Philippine government and universities enable us to facilitate admissions for students, even those with lower NEET scores.</p>
 
                     <p class="fw-medium text-uppercase text-primary mb-2">Celebrating Achievements: </p>
                     <p class="mb-4 para"> IndomedEducare takes pride in its achievements. We were honored with the prestigious "International Glory Award 2021," recognizing our excellence in the field of international education. Our success stems from our commitment to providing diverse study MBBS abroad options to students with varying budgetary requirements. </p>
